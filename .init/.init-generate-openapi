@@ -1,0 +1,4 @@
+{
+    "command": "npm install && node generate_openapi.js",
+    "working_directory": "/home/kavia/workspace/code-generation/cloud-resource-management-platform-311596-311606/express_api_server"
+}
